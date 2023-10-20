@@ -109,7 +109,7 @@ extern char **environ;
 int _isalpha(int);
 int interactive(info_t *);
 int is_delim(char, char *);
-int _atoi(char *);
+int atoi(char *);
 
 /* errors1.c */
 
