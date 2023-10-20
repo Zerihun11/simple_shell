@@ -104,7 +104,7 @@ typedef struct passinfo
 
 extern char **environ;
 
-/* atoi.c */
+/* _atoi.c */
 
 int _isalpha(int);
 int interactive(info_t *);
